@@ -1,6 +1,6 @@
 # Prueba Técnica (README)
 
-El repositorio contiene la solución a la prueba técnica enviada para el puesto de Java Backedn Sr.
+El repositorio contiene la solución del Backend a la prueba técnica enviada.
 
 ## Table de Contenidos
 
